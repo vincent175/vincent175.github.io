@@ -5,9 +5,9 @@ layout: home
 <div class="index-content blog">
     <div class="section">
         <ul class="artical-cate">
-            <li class="on" style="text-align:left"><a href="https://vincent175.github.io/"><span>Code</span></a></li>
-            <li style="text-align:center"><a href="https://vincent175.github.io/nichijou"><span>日常</span></a></li>
-            <li style="text-align:right"><a href="https://vincent175.github.io/about"><span>关于</span></a></li>
+            <li class="on" style="text-align:left"><a href="/"><span>Code</span></a></li>
+            <li style="text-align:center"><a href="/nichijou"><span>日常</span></a></li>
+            <li style="text-align:right"><a href="/about"><span>关于</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
