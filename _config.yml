@@ -1,0 +1,11 @@
+auto: true
+
+#markdown: rdiscount
+highlighter: 'pygments'
+#paginate: 8
+permalink: /:title
+
+title: ●ヽ(ﾟ∀ﾟ)ﾉ● 
+url: http://vincent175.github.io
+feed: /atom.xml
+author_info: <a href="http://vincent175.github.io/">Mukosame</a>
