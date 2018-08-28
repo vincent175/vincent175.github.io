@@ -9,6 +9,7 @@ description: MySQL分组取最大(最小、最新、前N条)条记录
 > 在数据库开发过程中，我们要为每种类型的数据取出前几条记录，或者是取最新、最小、最大等等，这个该如何实现？
 
 #### 准备测试数据
+
 ```
 create table tb (name vatrchar(10), val int, memo varchar(20))
 
