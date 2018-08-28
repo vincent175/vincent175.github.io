@@ -1,8 +1,10 @@
 auto: true
 
-#markdown: rdiscount
+markdown: kramdown
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
 highlighter: 'pygments'
-#paginate: 8
+paginate: 8
 permalink: /:title
 
 title: ●ヽ(ﾟ∀ﾟ)ﾉ● 
