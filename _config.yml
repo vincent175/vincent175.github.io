@@ -3,11 +3,11 @@ auto: true
 markdown: kramdown
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
-highlighter: 'pygments'
+highlighter: 'rouge'
 paginate: 8
 permalink: /:title
 
 title: ●ヽ(ﾟ∀ﾟ)ﾉ● 
 url: http://vincent175.github.io
 feed: /atom.xml
-author_info: <a href="http://vincent175.github.io/">Mukosame</a>
+author_info: <a href="http://vincent175.github.io/">Vincnet</a>
