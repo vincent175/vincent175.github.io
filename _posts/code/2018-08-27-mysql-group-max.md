@@ -10,6 +10,7 @@ description: MySQL分组取最大(最小、最新、前N条)条记录
 
 #### 准备测试数据
 
+
 ```sql
 create table tb (name vatrchar(10), val int, memo varchar(20))
 
